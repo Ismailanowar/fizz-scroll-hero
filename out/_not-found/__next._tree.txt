@@ -1,0 +1,4 @@
+:HL["/fizz-scroll-hero/_next/static/chunks/0o-3-pqp997fu.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"i2dyH14X4WcNazN3XdSKW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
